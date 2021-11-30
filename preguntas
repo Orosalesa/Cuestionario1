@@ -10,6 +10,12 @@ Son los cambios de numeros hacia dominios y su conversion
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 Por medio del satelite especifico hacia un servidor y manda la señal compartida de uno a otro
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
+En http se usa para acceder a una pagina web y html es un protocolo de cliente a servidor sobre como articula los cambios de informacion entre los clientes
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+la encriptacions sirve para poder proteger las cosas
+en cambio las llaves publicas pues ayudan a que algo lo pueda ver la gente
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+con cosas como la encriptacion he aprendido a protegerme contra los hackers y criminales de internet
+esto me ha sido util
 8 ¿Cómo funciona la búsqueda de google?
+La busqueda de google funciona cunado una persona inserta una frase/palabra en el buscador y google lo que hace es usar patrones de relacion con otras cosas relacionada a eso
